@@ -1,20 +1,14 @@
 # Automated-Essay-Scoring-via-Pairwise-Contrastive-Regression
 
----
-
 Created by Jiayi Xie*, Kaiwei Cai*, Li Kong, Junsheng Zhou, Weiguang Qu <br>
 This repository contains the ASAP dataset and Pytorch implementation for Automated Essay Scoring.(Coling 2022, Oral) <br>
 
 ## Dataset
 
----
-
 ### ASAP
 We use 5-corss-validation, and convert the dataset asap into 5 folds, as shown in the file path "./dataset/asap"
 
 ## Code for AES-NPCR
-
----
 
 ### Requirement
 
